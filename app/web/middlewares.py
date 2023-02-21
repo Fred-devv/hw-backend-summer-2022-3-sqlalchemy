@@ -6,6 +6,8 @@ from aiohttp.web_middlewares import middleware
 from aiohttp_apispec import validation_middleware
 from aiohttp_session import get_session
 
+from marshmallow import ValidationError
+
 from app.admin.models import Admin
 from app.web.utils import error_json_response
 
