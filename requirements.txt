@@ -1,4 +1,4 @@
-aiohttp==3.8.4
+aiohttp==3.8.2
 aiohttp-apispec==2.2.3
 aiohttp-session==2.11.0
 aioresponses==0.7.3
@@ -22,7 +22,7 @@ Jinja2==3.1.2
 Mako==1.2.1
 MarkupSafe==2.0.1
 marshmallow==3.17.0
-multidict==6.0.2
+multidict==5.2.0
 packaging==21.3
 pluggy==1.0.0
 py==1.11.0
